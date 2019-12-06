@@ -1,3 +1,4 @@
 # helle-world
-Primer Contacto con GITHub
-Hola Mundo!
+Hola Gente.
+Aqui el primer test de Ariel.
+jaja!
